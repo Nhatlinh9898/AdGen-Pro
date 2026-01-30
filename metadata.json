@@ -1,0 +1,5 @@
+{
+  "name": "AdGen Pro",
+  "description": "A dynamic product advertisement generator featuring a live preview and AI-powered content creation using Gemini.",
+  "requestFramePermissions": []
+}
